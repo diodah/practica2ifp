@@ -18,7 +18,7 @@ import java.util.Scanner;
 	
 
 /*
- * Añadido cambios para subirlos a github
+ * Cambios para demostrar uso de GitHub
  * 
  * */
 public class ProgramaPrincipal {

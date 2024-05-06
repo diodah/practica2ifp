@@ -18,7 +18,7 @@ import java.util.Scanner;
 	
 
 /*
- * Cambios para demostrar uso de GitHub
+ * Cambios para demostrar uso de GitHub Desktop
  * 
  * */
 public class ProgramaPrincipal {
